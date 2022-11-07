@@ -1,7 +1,5 @@
 ### Hi there, I am Rodrigo Vega 👋
 
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/Users/USUARIO/Pictures/bannerrv.jpg" width="120" height="120"/></a> 
-
 ![bannerrv](https://user-images.githubusercontent.com/44279449/200409689-f5610be0-3c90-4442-a01f-722dee9cfd00.jpg)
 
 
@@ -18,7 +16,8 @@
 
 #### Some technologies I use:
 
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white;
+
 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
 https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
 https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
