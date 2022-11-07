@@ -16,6 +16,9 @@
 
 #### Some technologies I use:
 
+
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+
 (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
